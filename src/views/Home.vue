@@ -102,6 +102,10 @@ img {
   }
 
   .card img {width: 90%;}
+
+  .home .container {
+    width: 100%;
+  }
 }
 
 </style>

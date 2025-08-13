@@ -72,6 +72,8 @@ export default {
       text-align: center;
       gap: 15px;
     }
+
+    h1 {text-align: center;}
   }
 
 </style>
