@@ -7,10 +7,10 @@
           <li><a href="/">Início</a></li>
           <li><a href="/about">Sobre</a></li>
           <li><a href="/services">Serviços</a></li>
+          <li><a href="/account">Conta</a></li>
         </ul>
       </nav>
     </div>
-
   </header>
 </template>
 
